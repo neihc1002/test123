@@ -1,0 +1,852 @@
+Uri: https://www.smartmi.com.cn/
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\index.htm
+Content Type: text/html
+
+Uri: https://www.smartmi.com.cn/static/favicon.ico
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\static\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.smartmi.com.cn/static/css/app.e99c8efcf91de8ab7d75156a53bbb0dd.css
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\static\css\app.e99c8efcf91de8ab7d75156a53bbb0dd.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-169891252-1
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.smartmi.com.cn/static/js/vendor.2557bba0801309688c36.js
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\static\js\vendor.2557bba0801309688c36.js
+Content Type: application/javascript
+
+Uri: https://www.smartmi.com.cn/static/js/app.7f4747adc4602aa6123e.js
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\static\js\app.7f4747adc4602aa6123e.js
+Content Type: application/javascript
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/app-intro.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\app-intro.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/app-times-1.jpg?v=2
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\app-times-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/app-times-2.jpg?v=2
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\app-times-2.jpg.webp
+Content Type: image/webp
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/app-times-3.jpg?v=2
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\app-times-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/app-times-5.jpg?v=1
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\app-times-5.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/app-times-text.png?v=1
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\app-times-text.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/app-mode.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\app-mode.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/app-filter.jpg?v=1
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\app-filter.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/app-next.jpg?v=1
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\app-next.jpg
+Content Type: image/jpeg
+
+Uri: https://s01.appmifile.com/css/fonts/proximanova/proxima-nova-thin.woff?p=
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\css\fonts\proximanova\proxima-nova-thin.woff
+Content Type: application/octet-stream
+
+Uri: https://s01.appmifile.com/css/fonts/proximanova/proxima-nova-light.woff?p=
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\css\fonts\proximanova\proxima-nova-light.woff
+Content Type: application/octet-stream
+
+Uri: https://s01.appmifile.com/css/fonts/proximanova/proxima-nova-regular.woff?p=
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\css\fonts\proximanova\proxima-nova-regular.woff
+Content Type: application/octet-stream
+
+Uri: https://s01.appmifile.com/css/fonts/proximanova/proxima-nova-semibold.woff?p=
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\css\fonts\proximanova\proxima-nova-semibold.woff
+Content Type: application/octet-stream
+
+Uri: https://s01.appmifile.com/css/fonts/proximanova/proxima-nova-bold.woff?p=
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\css\fonts\proximanova\proxima-nova-bold.woff
+Content Type: application/octet-stream
+
+Uri: https://s01.appmifile.com/css/fonts/proximanova/proxima-nova-extrabold.woff?p=
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\css\fonts\proximanova\proxima-nova-extrabold.woff
+Content Type: application/octet-stream
+
+Uri: https://s01.appmifile.com/css/fonts/proximanova/proxima-nova-black.woff?p=
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\css\fonts\proximanova\proxima-nova-black.woff
+Content Type: application/octet-stream
+
+Uri: https://www.smartmi.com.cn/fonts/icomoon.eot?170315
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\fonts\icomoon.eot.html
+Content Type: text/html
+
+Uri: https://www.smartmi.com.cn/fonts/icomoon.eot?
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\fonts\icomoon.eot-1.html
+Content Type: text/html
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/2014/open/animate-mitu.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\2014\open\animate-mitu.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/2014/open/mitu-2.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\2014\open\mitu-2.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/2018/mffstarskin/pc_skinheader.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\2018\mffstarskin\pc_skinheader.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/2018/mffstarskin/pc_skinfooter.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\2018\mffstarskin\pc_skinfooter.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-intro.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-intro.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-1.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-1.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-2.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-2.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-3.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-3.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-4.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-4.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-2h/feature-5.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\products\pc\mi-air-purifier-2h\feature-5.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-2-bg.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-2-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-5-bg.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-5-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-2h/feature-closeup-5.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\products\pc\mi-air-purifier-2h\feature-closeup-5.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-1-s.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-1-s.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-2-s.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-2-s.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-3-s.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-3-s.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-4-s.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-4-s.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-closeup-5-s.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-closeup-5-s.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-effect.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-effect.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-effect-1-en.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-effect-1-en.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-details-2.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-details-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-details-1.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-details-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-silence.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-silence.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-size.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-size.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air/aircleaner-design-08-01.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air\aircleaner-design-08-01.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air/aircleaner-design-08-02.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air\aircleaner-design-08-02.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air/aircleaner-design-08-03.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air\aircleaner-design-08-03.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air/aircleaner-design-08-04.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air\aircleaner-design-08-04.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air/aircleaner-design-08-05.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air\aircleaner-design-08-05.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air/aircleaner-design-08-06.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air\aircleaner-design-08-06.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air/aircleaner-design-08-07.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air\aircleaner-design-08-07.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air/aircleaner-design-08-08.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air\aircleaner-design-08-08.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-logo-lg.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-logo-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-logo-sen.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-logo-sen.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-logo-toray.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-logo-toray.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/feature-next.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\feature-next.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-intro.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-intro.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-demo-1.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-demo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-2h/newfliter.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\products\pc\mi-air-purifier-2h\newfliter.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-demo-4.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-demo-4.jpg.webp
+Content Type: image/webp
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-good.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-good.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-germ.png?v=1
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-germ.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-hair.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-hair.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-floc.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-floc.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-level-1.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-level-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-2h/fliter-2.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\products\pc\mi-air-purifier-2h\fliter-2.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-level-2-icons.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-level-2-icons.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-level-3.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-level-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-2h/fliter-1.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\products\pc\mi-air-purifier-2h\fliter-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-install.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-install.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-app.jpg?v=1
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-app.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-app-icons.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-app-icons.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/filter-next.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\filter-next.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/gallery-1.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/gallery-2.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\gallery-2.jpg.webp
+Content Type: image/webp
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/gallery-3.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/gallery-4.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/gallery-5.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/gallery-7.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\gallery-7.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/gallery-8.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\gallery-8.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/gallery-9.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\gallery-9.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-2h/new-app1.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\products\pc\mi-air-purifier-2h\new-app1.jpg.webp
+Content Type: image/webp
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-size-show.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-size-show.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-size-spec.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-size-spec.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-scene-1.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-scene-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-scene-2.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-scene-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-scene-3.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-scene-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-feature-5.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-feature-5.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-feature-3.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-feature-3.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-feature.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-feature.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-filter-6.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-filter-6.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-filter-5.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-filter-5.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-room.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-room.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-room-air.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-room-air.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-room-1.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-room-1.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-room-2.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-room-2.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-room-3.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-room-3.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-room-4.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-room-4.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-room-air-hover.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-room-air-hover.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-app-bg.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-app-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-lisence.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-lisence.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-lisence-p.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-lisence-p.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-next.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-next.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/summary-buy.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\summary-buy.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/space-left-point.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\space-left-point.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/icon_01.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\icon_01.jpg.webp
+Content Type: image/webp
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/icon_02.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\icon_02.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/spec-icons.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\spec-icons.png
+Content Type: image/png
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/icon_04.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\icon_04.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/icon_05.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\icon_05.jpg.webp
+Content Type: image/webp
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/icon_06.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\icon_06.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/icon_07.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\icon_07.jpg.webp
+Content Type: image/webp
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/icon_08.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\icon_08.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/icon_09.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\icon_09.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/spec-size.jpg?v=2
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\spec-size.jpg
+Content Type: image/jpeg
+
+Uri: https://i01.appmifile.com/webfile/globalimg/en/goods/air2/item.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\webfile\globalimg\en\goods\air2\item.png
+Content Type: image/png
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/airpro_3.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\airpro_3.jpg
+Content Type: image/jpeg
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/airpro_5.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\airpro_5.jpg
+Content Type: image/jpeg
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/airpro_8.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\airpro_8.jpg
+Content Type: image/jpeg
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/airpro_7.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\airpro_7.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/airpro/airproprinc-05-icon.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\airpro\airproprinc-05-icon.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/airpro/airproprinc-06.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\airpro\airproprinc-06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smartmi.com.cn/i/logo.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\i\logo.png.html
+Content Type: text/html
+
+Uri: https://c1.mifile.cn/f/i/16/base/bigtap-poster-1.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\base\bigtap-poster-1.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/base/bigtap-poster-3.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\base\bigtap-poster-3.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/base/bigtap-poster-4.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\base\bigtap-poster-4.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/base/bigtap-poster-5.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\base\bigtap-poster-5.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/base/bigtap-mitu-queue-big.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\base\bigtap-mitu-queue-big.png
+Content Type: image/png
+
+Uri: https://s1.mi.com/open/131101/images/mitu-2.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\open\131101\images\mitu-2.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/base/bigtap-mitu-faild.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\base\bigtap-mitu-faild.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/base/drag-captcha-handle.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\base\drag-captcha-handle.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/airpro/mj-specs-header.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\airpro\mj-specs-header.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/airpro/mj-specs-icon1.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\airpro\mj-specs-icon1.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/airpro/mj-specs-icon2-2.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\airpro\mj-specs-icon2-2.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/airpro/mj-specs-icon3.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\airpro\mj-specs-icon3.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/airpro/mj-specs-icon4.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\airpro\mj-specs-icon4.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/airpro/mj-specs-pic.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\airpro\mj-specs-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-icon.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-icon.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-04.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-04.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-05.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-05.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-05a.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-05a.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-05b.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-05b.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-05c.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-05c.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-05d.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-05d.png
+Content Type: image/png
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-06-a.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-06-a.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-06-b.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-06-b.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-14.gif
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-14.gif
+Content Type: image/gif
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-17.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-17.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-specs-01.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-specs-01.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-specs-02.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-specs-02.jpg
+Content Type: image/jpeg
+
+Uri: https://c1.mifile.cn/f/i/16/chain/humid/humid-specs-03.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\f\i\16\chain\humid\humid-specs-03.jpg
+Content Type: image/jpeg
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/5a509b7101a2e861753848226c0d9c2a.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\5a509b7101a2e861753848226c0d9c2a.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/8f295b64def9bbe421ad869fb2e16972.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\8f295b64def9bbe421ad869fb2e16972.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/29e3d60385af27e1fcc1edd7d9e2fe64.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\29e3d60385af27e1fcc1edd7d9e2fe64.ttf
+Content Type: application/octet-stream
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/eff907d1789a7d409693aae7505a2d95.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\eff907d1789a7d409693aae7505a2d95.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/5dddf730cc58e3b3e18f6a1e1896aaa7.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\5dddf730cc58e3b3e18f6a1e1896aaa7.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/be9c276ddcfc35da7591ef9982d3cdeb.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\be9c276ddcfc35da7591ef9982d3cdeb.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/b4ec180d9be78e5410058d322614d346.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\b4ec180d9be78e5410058d322614d346.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/e8026c395deea2eb95c65a187890fe65.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\e8026c395deea2eb95c65a187890fe65.png
+Content Type: image/png
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/1083326144a387cf4ec004928a9d33b1.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\1083326144a387cf4ec004928a9d33b1.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/1c2d5be39cf055a4b8efd605461b7895.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\1c2d5be39cf055a4b8efd605461b7895.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/f2c8fbb471497254f573bf6522775c90.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\f2c8fbb471497254f573bf6522775c90.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/1691b42e3ac32ef268a29db625a4428c.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\1691b42e3ac32ef268a29db625a4428c.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/91bba9419cbb5a4c5069340bea9a674.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\91bba9419cbb5a4c5069340bea9a674.ttf
+Content Type: application/octet-stream
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/71f0dfd4362e47c1ae3ea55f618da161.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\71f0dfd4362e47c1ae3ea55f618da161.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/76b7ee2c076ac8ba215879e089ba5f81.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\76b7ee2c076ac8ba215879e089ba5f81.png
+Content Type: image/png
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/9ac2cc5ae8616eb50c033525dc14a5eb.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\9ac2cc5ae8616eb50c033525dc14a5eb.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.smartmi.com.cn/static/fonts/FZLTHJ.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\static\fonts\FZLTHJ.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.smartmi.com.cn/static/fonts/element-icons.woff
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\static\fonts\element-icons.woff
+Content Type: font/woff
+
+Uri: https://www.smartmi.com.cn/static/fonts/element-icons.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\static\fonts\element-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.smartmi.com.cn/static/img/iconfont.56d4040.svg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\static\img\iconfont.56d4040.svg
+Content Type: image/svg+xml
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/gilroy-regular-3.otf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\gilroy-regular-3.otf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/HYQiHei-70S.otf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\HYQiHei-70S.otf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/111621ad497eb4234c6a10617c1c57a7.otf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\111621ad497eb4234c6a10617c1c57a7.otf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/814ae5a5bac710b89aba098348671775.otf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\814ae5a5bac710b89aba098348671775.otf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/e5386ea18ab758805f741f096e057b49.otf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\e5386ea18ab758805f741f096e057b49.otf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/fb529ae39a8837c8a8bde53e20af955d.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\fb529ae39a8837c8a8bde53e20af955d.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/14f86e1806819c41846222591762e681.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\14f86e1806819c41846222591762e681.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/2589bb29090d1c6635e13bfb2d5240ed.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\2589bb29090d1c6635e13bfb2d5240ed.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/b8b1d5ea3b80e52fb5162517fad3e3c6.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\b8b1d5ea3b80e52fb5162517fad3e3c6.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/5971735357b7a3138c9479ce220a4552.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\5971735357b7a3138c9479ce220a4552.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/5526c83ea24fdadfd86551a434c82bcb.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\5526c83ea24fdadfd86551a434c82bcb.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/c17e4d10afb6dbd26fb3fe6dfe9a3f15.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\c17e4d10afb6dbd26fb3fe6dfe9a3f15.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/78619423e618620a1e35611634aa1675.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\78619423e618620a1e35611634aa1675.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/7ea1bffac51c515415e4118f4b870e3b.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\7ea1bffac51c515415e4118f4b870e3b.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/2ea0c57cfa8ef34a5abdf2f288fc31bc.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\2ea0c57cfa8ef34a5abdf2f288fc31bc.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/8bfa9536e16662fb04b183eb4123e3b3.otf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\8bfa9536e16662fb04b183eb4123e3b3.otf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/cca35357783dc2273df8c48f0e3a9d43.otf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\cca35357783dc2273df8c48f0e3a9d43.otf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/a38f2a6d1b2d8cdcefb0ff1e36e1e27e.otf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\a38f2a6d1b2d8cdcefb0ff1e36e1e27e.otf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/6dcfbdde941a095c517b46d23dcaae98.otf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\6dcfbdde941a095c517b46d23dcaae98.otf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/4d565f71810e21c858443c6b144d88f5.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\4d565f71810e21c858443c6b144d88f5.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/58aef543c97bbaf6a9896e8484456d98.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\58aef543c97bbaf6a9896e8484456d98.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/88823c2015ffd5fa89d567e17297a137.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\88823c2015ffd5fa89d567e17297a137.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/11eabca2251325cfc5589c9c6fb57b46.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\11eabca2251325cfc5589c9c6fb57b46.ttf
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/e07df86cef2e721115583d61d1fb68a6.ttf
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\e07df86cef2e721115583d61d1fb68a6.ttf
+Content Type: application/octet-stream
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/005e28e352fa6b7145726dc0975062d9.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\005e28e352fa6b7145726dc0975062d9.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/951de9765428526daac458c1025da1f9.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\951de9765428526daac458c1025da1f9.jpg
+Content Type: image/jpeg
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/d1d918bce02826aec9cfaba1e8446e33.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\d1d918bce02826aec9cfaba1e8446e33.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/852e052a246fc0b8dcd038245c7ebb84.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\852e052a246fc0b8dcd038245c7ebb84.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/0200fe299c43730278d88a24fedd4af0.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\0200fe299c43730278d88a24fedd4af0.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/f09212b3a6e07170edf50d34cda235ea.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\f09212b3a6e07170edf50d34cda235ea.png
+Content Type: image/png
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/9e8a994ef4180738a700b0c1bb709c3d.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\9e8a994ef4180738a700b0c1bb709c3d.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/7e063ee496375759b3fe1044bbac99ae.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\7e063ee496375759b3fe1044bbac99ae.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/0de476772c6ea801951dbd2facc78c73.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\0de476772c6ea801951dbd2facc78c73.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/f5fe807f7688960932e620c7c4db8b38.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\f5fe807f7688960932e620c7c4db8b38.png
+Content Type: image/png
+
+Uri: https://ks3-cn-beijing.ksyun.com/app-common/website/80c26c2449aaca75559a17ffd3e89492.png
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\app-common\website\80c26c2449aaca75559a17ffd3e89492.png
+Content Type: image/png
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/5ca85caa8b59eeb5fe4893b44e65e00f.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\5ca85caa8b59eeb5fe4893b44e65e00f.jpg
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/95515a90c613739f5e7f80d877be0775.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\95515a90c613739f5e7f80d877be0775.jpg
+Content Type: application/octet-stream
+
+Uri: https://app-common.ks3-cn-beijing.ksyun.com/home_zhimi/8abb20a74de0a551e94389ae5f7c3dab.jpg
+File Name: C:\Downloaded Web Sites\www.smartmi.com.cn\home_zhimi\8abb20a74de0a551e94389ae5f7c3dab.jpg
+Content Type: application/octet-stream
+
